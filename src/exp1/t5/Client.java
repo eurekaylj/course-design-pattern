@@ -1,7 +1,7 @@
 package exp1.t5;
 
 public class Client {
-    public static void main(String[] Args) {
+    public static void main(String[] args) {
         Chief chief;
         Rice rice;
         Noodle noodle;

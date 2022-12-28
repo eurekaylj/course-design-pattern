@@ -1,7 +1,7 @@
 package exp1.t4;
 
 public class Client {
-    public static void main(String[] Args) {
+    public static void main(String[] args) {
         try {
             Connection connection;
             Statement statement;

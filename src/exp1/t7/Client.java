@@ -1,7 +1,7 @@
 package exp1.t7;
 
 public class Client {
-    public static void main(String[] Args) {
+    public static void main(String[] args) {
         PersonBuilder personBuilder = (PersonBuilder) XMLUtil.getBean();
         PaintDirector paintDirector = new PaintDirector();
 
