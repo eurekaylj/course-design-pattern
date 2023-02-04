@@ -1,8 +1,5 @@
 package exp3.t6;
 
-import java.util.Observable;
-import java.util.Observer;
-
 public class Student implements MyObserver {
 
     @Override
